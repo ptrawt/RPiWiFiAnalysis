@@ -6,7 +6,7 @@ declare -i intTime
 intTime=1
 intTime=(intTime*60)-15
 
-cd /home/pi/Project
+cd /home/pi/RPi
 while :
 do
 airmon-ng start wlan0
