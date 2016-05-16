@@ -1,8 +1,8 @@
 <snippet>
   <content><![CDATA[
-# ${1:RPiWiFiAnalysis}
+# ${1:Project Name}
 
-System for Wi-Fi Quality Analysis using Raspberry Pi
+TODO: Write a project description
 
 ## Installation
 
