@@ -1,6 +1,6 @@
 time = 15                   #Interval time to send data to server
 
-host = 'arg.in.th'          #Webserver IP
-database = 'pattrawut'      #Database name
-user = 'pattrawut'          #Webserver username
-password = 'YbNM5VNL9Y55'   #Webserver password
+host = ''          #Webserver IP
+database = ''      #Database name
+user = ''          #Webserver username
+password = ''   #Webserver password
