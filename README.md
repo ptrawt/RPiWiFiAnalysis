@@ -1,8 +1,6 @@
-<snippet>
-  <content><![CDATA[
-# ${1:Project Name}
+# RPiWiFiAnalysis
 
-TODO: Write a project description
+System for Wi-Fi Quality Analysis using Raspberry Pi
 
 ## Installation
 
@@ -31,6 +29,3 @@ TODO: Write credits
 ## License
 
 TODO: Write license
-]]></content>
-  <tabTrigger>readme</tabTrigger>
-</snippet>
